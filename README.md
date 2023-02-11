@@ -1,17 +1,12 @@
-# npm-package-starter
+# microcms-z-mock
 
-Repositories that can be used as a starter in creating npm package.
-
-| dependencies | version |
-| ------------ | ------- |
-| pnpm         |  7.5.0  |
-| typescript   |  4.8.4  |
+type-safe microcms msw
 
 ## Usage
 
-Click "**Use this template**" here or **clone** this repository.
+coming soon.
 
-###  Preset commands
+## Development
 
 ### build
 
