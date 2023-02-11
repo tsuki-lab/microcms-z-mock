@@ -1,0 +1,15 @@
+{
+  "apiFields": [
+    {
+      "idValue": "0lQKYPrVFD",
+      "fieldId": "title",
+      "name": "タイトル",
+      "kind": "text",
+      "isUnique": false
+    },
+    { "fieldId": "content", "name": "内容", "kind": "richEditor" },
+    { "fieldId": "eyecatch", "name": "アイキャッチ", "kind": "media" },
+    { "fieldId": "category", "name": "カテゴリ", "kind": "relation" }
+  ],
+  "customFields": []
+}

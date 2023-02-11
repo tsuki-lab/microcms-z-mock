@@ -1,0 +1,12 @@
+{
+  "apiFields": [
+    {
+      "idValue": "EIagi94db6",
+      "fieldId": "siteName",
+      "name": "サイト名",
+      "kind": "text",
+      "required": true
+    }
+  ],
+  "customFields": []
+}
